@@ -1,5 +1,5 @@
 
-Ayush Srivastava (srivastava-ayush) 🍊
+Ayush Srivastava 🍊
 =============================================================================================================================
 
 If it runs on electricity or executes JavaScript, I probably want to build on it.
